@@ -1,0 +1,2 @@
+echo "Running $1.py as sudo..."
+sudo python $1.py
