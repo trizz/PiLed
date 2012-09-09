@@ -9,7 +9,7 @@ If you want to use the Python scripts provided, please make sure you check the s
 The `run` script is added because I'm lazy. Just give it exec permissions and you can run the examples just by typing `./run fade`.
 
 ### Please note!
-This are just samples to make myself familier with Python and controlling the RGB strip. The scripts aren't free of bugs and aren't a complete product (more a proof of concept). I've published these so others can have a quick start, because, apart from the light-painting article mentioned earlier, I cound't find any good examples. Please feel free to do with it whatever you want. 
+This are just samples to make myself familiar with Python and controlling the RGB strip. The scripts aren't free of bugs and aren't a complete product (more a proof of concept). I've published these so others can have a quick start, because, apart from the light-painting article mentioned earlier, I couldn't find any good examples. Please feel free to do with it whatever you want. 
 
 ### License
 The scripts are licensed under the MIT-license.
